@@ -71,7 +71,7 @@ img {
 	width: 170px;
 	position: absolute;
 	top: 50%;
-	left: 5%;
+	left:10rem;
 	transform: translate(-50%, -50%);
 	margin-left: 0;
 }
